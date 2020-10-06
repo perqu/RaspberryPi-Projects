@@ -55,7 +55,7 @@ except KeyboardInterrupt:
     gpio.cleanup()
 ```
 
-![](images/filename%20Schematic)
+![](images/filename%20Schematic.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
