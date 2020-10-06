@@ -53,11 +53,11 @@ except KeyboardInterrupt:
     gpio.cleanup()
 ```
 
-## Scheme
-<img src="images/Schematic.png" alt="SchematicView" width="100%">
-
 ## Result
 <img src="images/Result.png" alt="Result" width="100%">
+
+## Scheme
+<img src="images/Schematic.png" alt="SchematicView" width="100%">
 
 ## CircuitView
 <img src="images/CircuitView.png" alt="CircuitView" width="100%">
