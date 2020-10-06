@@ -52,8 +52,14 @@ except KeyboardInterrupt:
     print "Cleaning up!"
     gpio.cleanup()
 ```
+## Scheme
+![](images/Schematic.png)
 
-![](images/filename%20Schematic.png)
+## Result
+![](images/Result.png)
+
+## CircuitView
+![](images/CircuitView.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
