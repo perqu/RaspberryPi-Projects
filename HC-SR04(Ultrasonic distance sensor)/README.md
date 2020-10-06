@@ -13,10 +13,8 @@ measurement function, the ranging accuracy can reach to 3mm.
 
 ## Needed Software
 
-```bash
 - RaspberryPi Raspbian
 - my script HC-SR04.py
-```
 
 ## Python script (HC-SR04.py)
 
